@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "饭盒",
+  "container.eattheworld.bento_box": "饭盒",
+  "gui.eattheworld.feed_mode_sequential": "顺序进食模式",
+  "gui.eattheworld.feed_mode_priority": "优先未食用模式",
+  "itemGroup.eattheworld.eattheworld": "吃遍全世界",
+  "gui.eattheworld.bento_box_empty": "饭盒为空",
+  "gui.eattheworld.current_food": "当前食物: %s",
+  "gui.eattheworld.feed_mode": "进食模式: %s",
+  "gui.eattheworld.marker_level": "标记等级: %d/5，效果为%.0f%%",
+  "gui.eattheworld.marker_recovering": "标记即将恢复",
+  "gui.eattheworld.marker_recovery_time": "恢复倒计时: %d秒",
+  "gui.eattheworld.food_eaten_count": "该食物吃过%d次",
+  "gui.eattheworld.food_never_eaten": "未吃过该食物~",
+  "gui.eattheworld.smart_mode_tooltip": "智能模式：优先选择标记1的食物，\n如果标记相同则选择饥饿度最高的食物",
+  "gui.eattheworld.sequential_mode_tooltip": "顺序模式：按照槽位顺序轮流进食，\n蓝色高亮显示当前进食位置，蓝色\n高亮没有食物或后面槽位都没有食\n物则选择第一个槽位",
+  "gui.eattheworld.smart_mode": "智能模式",
+  "gui.eattheworld.sequential_mode": "顺序模式",
+  "command.eattheworld.reset_success": "§a[吃遍全世界] 已重置所有食物标记数据！",
+  "command.eattheworld.reset_failed": "§c[吃遍全世界] 无法获取玩家数据！",
+  "command.eattheworld.player_only": "§c此命令只能由玩家执行！"
+}

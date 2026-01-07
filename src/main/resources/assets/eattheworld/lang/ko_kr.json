@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "도시락",
+  "container.eattheworld.bento_box": "도시락",
+  "gui.eattheworld.feed_mode_sequential": "순차 급식 모드",
+  "gui.eattheworld.feed_mode_priority": "우선 미식용 모드",
+  "itemGroup.eattheworld.eattheworld": "세상을 먹어치우다",
+  "gui.eattheworld.bento_box_empty": "도시락이 비어있습니다",
+  "gui.eattheworld.current_food": "현재 음식: %s",
+  "gui.eattheworld.feed_mode": "급식 모드: %s",
+  "gui.eattheworld.marker_level": "마커 레벨: %d/5, 효과: %.0f%%",
+  "gui.eattheworld.marker_recovering": "마커가 곧 회복됩니다",
+  "gui.eattheworld.marker_recovery_time": "회복 카운트다운: %d초",
+  "gui.eattheworld.food_eaten_count": "이 음식을 %d번 먹었습니다",
+  "gui.eattheworld.food_never_eaten": "이 음식을 먹어본 적이 없습니다~",
+  "gui.eattheworld.smart_mode_tooltip": "스마트 모드: 마커 1의 음식을 우선하고,\n마커가 같으면 배고픔이 가장 높은 음식을 선택합니다",
+  "gui.eattheworld.sequential_mode_tooltip": "순차 모드: 슬롯 순서대로 음식을 먹습니다,\n파란색 하이라이트는 현재 음식 위치를 표시합니다,\n음식이 없으면 첫 번째 슬롯을 선택합니다",
+  "gui.eattheworld.smart_mode": "스마트 모드",
+  "gui.eattheworld.sequential_mode": "순차 모드",
+  "command.eattheworld.reset_success": "§a[세상을 먹어치우다] 모든 음식 마커 데이터를 초기화했습니다!",
+  "command.eattheworld.reset_failed": "§c[세상을 먹어치우다] 플레이어 데이터를 가져올 수 없습니다!",
+  "command.eattheworld.player_only": "§c이 명령은 플레이어만 실행할 수 있습니다!"
+}

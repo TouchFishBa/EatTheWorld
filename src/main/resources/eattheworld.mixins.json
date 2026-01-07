@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.rz.eattheworld.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "eattheworld.refmap.json",
+  "mixins": [
+    "ItemMixin"
+  ],
+  "client": [
+    "AppleSkinTooltipMixin",
+    "AppleSkinFoodTooltipMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "conformVisibility": true,
+    "requireAnnotations": false
+  },
+  "mixinPriority": 1000,
+  "plugin": "com.rz.eattheworld.mixins.MixinPlugin"
+}

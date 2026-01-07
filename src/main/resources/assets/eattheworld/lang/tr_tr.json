@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "Bento Kutusu",
+  "container.eattheworld.bento_box": "Bento Kutusu",
+  "gui.eattheworld.feed_mode_sequential": "Sıralı Beslenme Modu",
+  "gui.eattheworld.feed_mode_priority": "Öncelikli Yenmemiş Modu",
+  "itemGroup.eattheworld.eattheworld": "Dünyayı Ye",
+  "gui.eattheworld.bento_box_empty": "Bento Kutusu Boş",
+  "gui.eattheworld.current_food": "Mevcut Yiyecek: %s",
+  "gui.eattheworld.feed_mode": "Beslenme Modu: %s",
+  "gui.eattheworld.marker_level": "İşaretçi Seviyesi: %d/5, Etki: %.0f%%",
+  "gui.eattheworld.marker_recovering": "İşaretçi Yakında Kurtarılacak",
+  "gui.eattheworld.marker_recovery_time": "Kurtarma Geri Sayımı: %d saniye",
+  "gui.eattheworld.food_eaten_count": "Bu Yiyeceği %d Kez Yediniz",
+  "gui.eattheworld.food_never_eaten": "Bu Yiyeceği Hiç Yediniz~",
+  "gui.eattheworld.smart_mode_tooltip": "Akıllı Mod: İşaretçi 1 olan yiyecekleri öncelendirin,\nİşaretçiler eşitse en yüksek açlığa sahip yiyeceği seçin",
+  "gui.eattheworld.sequential_mode_tooltip": "Sıralı Mod: Yiyecekleri yuva sırasına göre yiyin,\nMavi vurgulama mevcut yiyecek konumunu gösterir,\nYiyecek yoksa ilk yuvayı seçin",
+  "gui.eattheworld.smart_mode": "Akıllı Mod",
+  "gui.eattheworld.sequential_mode": "Sıralı Mod",
+  "command.eattheworld.reset_success": "§a[Dünyayı Ye] Tüm Yiyecek İşaretçi Verileri Sıfırlandı!",
+  "command.eattheworld.reset_failed": "§c[Dünyayı Ye] Oyuncu Verileri Alınamadı!",
+  "command.eattheworld.player_only": "§cBu Komut Sadece Oyuncular Tarafından Çalıştırılabilir!"
+}

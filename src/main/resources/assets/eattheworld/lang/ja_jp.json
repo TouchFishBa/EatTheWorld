@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "弁当箱",
+  "container.eattheworld.bento_box": "弁当箱",
+  "gui.eattheworld.feed_mode_sequential": "順序給餌モード",
+  "gui.eattheworld.feed_mode_priority": "優先未食用モード",
+  "itemGroup.eattheworld.eattheworld": "世界を食べ尽くす",
+  "gui.eattheworld.bento_box_empty": "弁当箱は空です",
+  "gui.eattheworld.current_food": "現在の食べ物: %s",
+  "gui.eattheworld.feed_mode": "給餌モード: %s",
+  "gui.eattheworld.marker_level": "マーカーレベル: %d/5、効果: %.0f%%",
+  "gui.eattheworld.marker_recovering": "マーカーがまもなく回復します",
+  "gui.eattheworld.marker_recovery_time": "回復カウントダウン: %d秒",
+  "gui.eattheworld.food_eaten_count": "この食べ物は%d回食べました",
+  "gui.eattheworld.food_never_eaten": "この食べ物はまだ食べていません~",
+  "gui.eattheworld.smart_mode_tooltip": "スマートモード: マーカー1の食べ物を優先し、\nマーカーが同じ場合は最も空腹度が高い食べ物を選択します",
+  "gui.eattheworld.sequential_mode_tooltip": "順序モード: スロット順に食べ物を食べます、\n青いハイライトは現在の食べ物の位置を示します、\n食べ物がない場合は最初のスロットを選択します",
+  "gui.eattheworld.smart_mode": "スマートモード",
+  "gui.eattheworld.sequential_mode": "順序モード",
+  "command.eattheworld.reset_success": "§a[世界を食べ尽くす] すべての食べ物マーカーデータをリセットしました！",
+  "command.eattheworld.reset_failed": "§c[世界を食べ尽くす] プレイヤーデータを取得できませんでした！",
+  "command.eattheworld.player_only": "§cこのコマンドはプレイヤーのみが実行できます！"
+}

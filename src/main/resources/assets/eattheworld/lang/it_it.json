@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "Scatola di bento",
+  "container.eattheworld.bento_box": "Scatola di bento",
+  "gui.eattheworld.feed_mode_sequential": "Modalità di alimentazione sequenziale",
+  "gui.eattheworld.feed_mode_priority": "Modalità prioritaria non mangiata",
+  "itemGroup.eattheworld.eattheworld": "Mangia il mondo",
+  "gui.eattheworld.bento_box_empty": "La scatola di bento è vuota",
+  "gui.eattheworld.current_food": "Cibo attuale: %s",
+  "gui.eattheworld.feed_mode": "Modalità di alimentazione: %s",
+  "gui.eattheworld.marker_level": "Livello marcatore: %d/5, Effetto: %.0f%%",
+  "gui.eattheworld.marker_recovering": "Il marcatore si sta riprendendo presto",
+  "gui.eattheworld.marker_recovery_time": "Conto alla rovescia del recupero: %d secondi",
+  "gui.eattheworld.food_eaten_count": "Hai mangiato questo cibo %d volte",
+  "gui.eattheworld.food_never_eaten": "Non hai mai mangiato questo cibo~",
+  "gui.eattheworld.smart_mode_tooltip": "Modalità intelligente: Dai priorità ai cibi con marcatore 1,\nSe i marcatori sono uguali, scegli il cibo con la fame più alta",
+  "gui.eattheworld.sequential_mode_tooltip": "Modalità sequenziale: Mangia i cibi in ordine di slot,\nL'evidenziazione blu mostra la posizione attuale del cibo,\nSe non c'è cibo, seleziona il primo slot",
+  "gui.eattheworld.smart_mode": "Modalità intelligente",
+  "gui.eattheworld.sequential_mode": "Modalità sequenziale",
+  "command.eattheworld.reset_success": "§a[Mangia il mondo] Tutti i dati del marcatore di cibo sono stati ripristinati!",
+  "command.eattheworld.reset_failed": "§c[Mangia il mondo] Impossibile ottenere i dati del giocatore!",
+  "command.eattheworld.player_only": "§cQuesto comando può essere eseguito solo dai giocatori!"
+}

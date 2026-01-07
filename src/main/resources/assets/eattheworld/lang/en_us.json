@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "Bento Box",
+  "container.eattheworld.bento_box": "Bento Box",
+  "gui.eattheworld.feed_mode_sequential": "Sequential Feed Mode",
+  "gui.eattheworld.feed_mode_priority": "Priority Uneaten Mode",
+  "itemGroup.eattheworld.eattheworld": "Eat The World",
+  "gui.eattheworld.bento_box_empty": "Bento Box is empty",
+  "gui.eattheworld.current_food": "Current Food: %s",
+  "gui.eattheworld.feed_mode": "Feed Mode: %s",
+  "gui.eattheworld.marker_level": "Marker Level: %d/5, Effect: %.0f%%",
+  "gui.eattheworld.marker_recovering": "Marker recovering soon",
+  "gui.eattheworld.marker_recovery_time": "Recovery Countdown: %d seconds",
+  "gui.eattheworld.food_eaten_count": "This food eaten %d times",
+  "gui.eattheworld.food_never_eaten": "Never eaten this food~",
+  "gui.eattheworld.smart_mode_tooltip": "Smart Mode: Prioritize foods with marker 1,\nIf markers are equal, choose the food with highest hunger value",
+  "gui.eattheworld.sequential_mode_tooltip": "Sequential Mode: Eat foods in slot order,\nBlue highlight shows current eating position,\nIf no food or no food after, select first slot",
+  "gui.eattheworld.smart_mode": "Smart Mode",
+  "gui.eattheworld.sequential_mode": "Sequential Mode",
+  "command.eattheworld.reset_success": "§a[Eat The World] All food marker data has been reset!",
+  "command.eattheworld.reset_failed": "§c[Eat The World] Failed to get player data!",
+  "command.eattheworld.player_only": "§cThis command can only be used by players!"
+}

@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "Bentobox",
+  "container.eattheworld.bento_box": "Bentobox",
+  "gui.eattheworld.feed_mode_sequential": "Sequentiële voedingsmodus",
+  "gui.eattheworld.feed_mode_priority": "Prioriteit ongeëten modus",
+  "itemGroup.eattheworld.eattheworld": "Eet de wereld",
+  "gui.eattheworld.bento_box_empty": "Bentobox is leeg",
+  "gui.eattheworld.current_food": "Huidig voedsel: %s",
+  "gui.eattheworld.feed_mode": "Voedingsmodus: %s",
+  "gui.eattheworld.marker_level": "Markerniveau: %d/5, Effect: %.0f%%",
+  "gui.eattheworld.marker_recovering": "Marker herstelt zich binnenkort",
+  "gui.eattheworld.marker_recovery_time": "Herstelaflelling: %d seconden",
+  "gui.eattheworld.food_eaten_count": "Je hebt dit voedsel %d keer gegeten",
+  "gui.eattheworld.food_never_eaten": "Je hebt dit voedsel nog nooit gegeten~",
+  "gui.eattheworld.smart_mode_tooltip": "Slimme modus: Prioriteit voor voedsel met marker 1,\nAls markers gelijk zijn, kies het voedsel met de hoogste honger",
+  "gui.eattheworld.sequential_mode_tooltip": "Sequentiële modus: Eet voedsel in slotvolgordes,\nBlauwe markering toont huidige voedselposities,\nAls er geen voedsel is, selecteer de eerste slot",
+  "gui.eattheworld.smart_mode": "Slimme modus",
+  "gui.eattheworld.sequential_mode": "Sequentiële modus",
+  "command.eattheworld.reset_success": "§a[Eet de wereld] Alle voedselmarkergegevens zijn opnieuw ingesteld!",
+  "command.eattheworld.reset_failed": "§c[Eet de wereld] Kan spelersgegevens niet ophalen!",
+  "command.eattheworld.player_only": "§cDeze opdracht kan alleen door spelers worden uitgevoerd!"
+}

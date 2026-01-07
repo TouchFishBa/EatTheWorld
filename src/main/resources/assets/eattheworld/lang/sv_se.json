@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "Bentobox",
+  "container.eattheworld.bento_box": "Bentobox",
+  "gui.eattheworld.feed_mode_sequential": "Sekventiellt matningsläge",
+  "gui.eattheworld.feed_mode_priority": "Prioriterat oätit läge",
+  "itemGroup.eattheworld.eattheworld": "Äta världen",
+  "gui.eattheworld.bento_box_empty": "Bentoboxen är tom",
+  "gui.eattheworld.current_food": "Nuvarande mat: %s",
+  "gui.eattheworld.feed_mode": "Matningsläge: %s",
+  "gui.eattheworld.marker_level": "Markernivå: %d/5, Effekt: %.0f%%",
+  "gui.eattheworld.marker_recovering": "Markören återhämtar sig snart",
+  "gui.eattheworld.marker_recovery_time": "Återhämtningsnedräkning: %d sekunder",
+  "gui.eattheworld.food_eaten_count": "Du har ätit denna mat %d gånger",
+  "gui.eattheworld.food_never_eaten": "Du har aldrig ätit denna mat~",
+  "gui.eattheworld.smart_mode_tooltip": "Smart läge: Prioritera mat med markör 1,\nOm markörer är lika, välj maten med högsta hunger",
+  "gui.eattheworld.sequential_mode_tooltip": "Sekventiellt läge: Ät mat i slotordning,\nBlå markering visar aktuell matposition,\nOm det inte finns mat, välj första sloten",
+  "gui.eattheworld.smart_mode": "Smart läge",
+  "gui.eattheworld.sequential_mode": "Sekventiellt läge",
+  "command.eattheworld.reset_success": "§a[Äta världen] Alla matmarkerdata har återställts!",
+  "command.eattheworld.reset_failed": "§c[Äta världen] Kan inte hämta spelardata!",
+  "command.eattheworld.player_only": "§cDetta kommando kan bara köras av spelare!"
+}

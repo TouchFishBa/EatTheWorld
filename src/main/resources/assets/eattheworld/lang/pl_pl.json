@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "Pudełko bento",
+  "container.eattheworld.bento_box": "Pudełko bento",
+  "gui.eattheworld.feed_mode_sequential": "Tryb sekwencyjnego karmienia",
+  "gui.eattheworld.feed_mode_priority": "Tryb priorytetu niezjedzonego",
+  "itemGroup.eattheworld.eattheworld": "Zjedz świat",
+  "gui.eattheworld.bento_box_empty": "Pudełko bento jest puste",
+  "gui.eattheworld.current_food": "Obecne jedzenie: %s",
+  "gui.eattheworld.feed_mode": "Tryb karmienia: %s",
+  "gui.eattheworld.marker_level": "Poziom markera: %d/5, Efekt: %.0f%%",
+  "gui.eattheworld.marker_recovering": "Marker wkrótce się odzyska",
+  "gui.eattheworld.marker_recovery_time": "Odliczanie odzyskiwania: %d sekund",
+  "gui.eattheworld.food_eaten_count": "Zjadłeś to jedzenie %d razy",
+  "gui.eattheworld.food_never_eaten": "Nigdy nie jadłeś tego jedzenia~",
+  "gui.eattheworld.smart_mode_tooltip": "Tryb inteligentny: Priorytet dla jedzenia ze znacznikiem 1,\nJeśli znaczniki są równe, wybierz jedzenie z największym głodem",
+  "gui.eattheworld.sequential_mode_tooltip": "Tryb sekwencyjny: Jedz jedzenie w kolejności slotów,\nNiebieski highlight pokazuje bieżącą pozycję jedzenia,\nJeśli nie ma jedzenia, wybierz pierwszy slot",
+  "gui.eattheworld.smart_mode": "Tryb inteligentny",
+  "gui.eattheworld.sequential_mode": "Tryb sekwencyjny",
+  "command.eattheworld.reset_success": "§a[Zjedz świat] Wszystkie dane znacznika jedzenia zostały zresetowane!",
+  "command.eattheworld.reset_failed": "§c[Zjedz świat] Nie można pobrać danych gracza!",
+  "command.eattheworld.player_only": "§cTa komenda może być wykonana tylko przez graczy!"
+}

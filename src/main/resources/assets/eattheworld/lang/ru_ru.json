@@ -1,0 +1,22 @@
+{
+  "item.eattheworld.bento_box": "Коробка бэнто",
+  "container.eattheworld.bento_box": "Коробка бэнто",
+  "gui.eattheworld.feed_mode_sequential": "Последовательный режим кормления",
+  "gui.eattheworld.feed_mode_priority": "Режим приоритета невъеденного",
+  "itemGroup.eattheworld.eattheworld": "Съесть мир",
+  "gui.eattheworld.bento_box_empty": "Коробка бэнто пуста",
+  "gui.eattheworld.current_food": "Текущая еда: %s",
+  "gui.eattheworld.feed_mode": "Режим кормления: %s",
+  "gui.eattheworld.marker_level": "Уровень маркера: %d/5, Эффект: %.0f%%",
+  "gui.eattheworld.marker_recovering": "Маркер скоро восстановится",
+  "gui.eattheworld.marker_recovery_time": "Обратный отсчет восстановления: %d секунд",
+  "gui.eattheworld.food_eaten_count": "Вы съели эту еду %d раз",
+  "gui.eattheworld.food_never_eaten": "Вы никогда не ели эту еду~",
+  "gui.eattheworld.smart_mode_tooltip": "Умный режим: Приоритет еде с маркером 1,\nЕсли маркеры равны, выберите еду с наибольшим голодом",
+  "gui.eattheworld.sequential_mode_tooltip": "Последовательный режим: Ешьте еду в порядке слотов,\nСиний выделение показывает текущую позицию еды,\nЕсли еды нет, выберите первый слот",
+  "gui.eattheworld.smart_mode": "Умный режим",
+  "gui.eattheworld.sequential_mode": "Последовательный режим",
+  "command.eattheworld.reset_success": "§a[Съесть мир] Все данные маркеров еды были сброшены!",
+  "command.eattheworld.reset_failed": "§c[Съесть мир] Не удалось получить данные игрока!",
+  "command.eattheworld.player_only": "§cЭта команда может быть выполнена только игроками!"
+}
